@@ -12,9 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/mukuls_twt#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mukuls_twt#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![website](./img/twitter.svg)](https://twitter.com/mukuls_twt)
+ &nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-dark-mode-only)
 &nbsp;&nbsp;
