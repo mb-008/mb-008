@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./ldn.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124)
+[![website](./ldn.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a/)
 &nbsp;
 [![website](./ig.svg)](https://www.instagram.com/mukulsig)
 &nbsp;
