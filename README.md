@@ -12,11 +12,13 @@
 
 ### Connect with me:
 
-[![website](./twt.svg)](https://twitter.com/mukuls_twt)
+
+[![website](./ig.svg)](https://www.instagram.com/mukulsig)
  &nbsp;
 [![website](./ldn.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124)
  &nbsp;
-[![website](./ig.svg)](https://www.instagram.com/mukulsig)
+ [![website](./twt.svg)](https://twitter.com/mukuls_twt)
+
  
 
  
