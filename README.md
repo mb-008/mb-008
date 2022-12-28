@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
 
 <!--
 **mb-008/mb-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... mukulbhardwaj947@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ... I love cricket
--->[![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
+--> 
