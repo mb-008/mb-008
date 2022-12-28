@@ -14,11 +14,10 @@
 
 [![website](./twt.svg)](https://twitter.com/mukuls_twt)
  &nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mukulsig/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mukulsig/r#gh-dark-mode-only)
+[![website](./ldn.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124)
+ &nbsp;
+[![website](./ig.svg)](https://www.instagram.com/mukulsig)
+ 
 
  
  
