@@ -1,17 +1,25 @@
-### Hi there 👋
-[![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
+ # Hi there, I'm mukul - aka [mb-008] 👋 
+ [![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
 
-<!--
-**mb-008/mb-008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+## I'm a Student,Learner and Your frienly neighbourhood developer😁😁!!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently trying to learn everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2023 Goals: Learn more about opens source
+- ⚡ Fun fact: I love to dance 
+ 
 
-- 🔭 I’m currently working on myself
-- 🌱 I’m currently learning new fields
-- 👯 I’m looking to collaborate on open source
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about
-- 📫 How to reach me: ... mukulbhardwaj947@gmail.com
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ... I love cricket
---> 
+### Connect with me:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/mukuls_twt#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/mukuls_twt#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/mukulsig/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/mukulsig/r#gh-dark-mode-only)
+
+ 
+ 
