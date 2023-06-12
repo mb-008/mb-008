@@ -24,7 +24,7 @@ MY STATS :
 
 [![mb-008's GitHub | Stats](https://stats.quine.sh/mb-008/github?theme=dark)](https://quine.sh)
 
- [![mb-008's GitHub | Topics Over Time](https://stats.quine.sh/mb-008/topics-over-time?theme=light)](https://quine.sh)
+ 
  
  
 
