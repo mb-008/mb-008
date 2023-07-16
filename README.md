@@ -2,7 +2,7 @@
  [![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
 
  
-## I'm a Student , learner and your frienly neighbourhood developer😁😁!!
+## I'm a Student , learner and your friendly neighbourhood developer😁😁!!
 
 - 🌱 I’m currently trying to learn everything 🤣
 - 👯 I’m looking to collaborate with other content creators
