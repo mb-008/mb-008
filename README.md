@@ -7,16 +7,12 @@
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
- # Hi there, I'm mukul - aka [mb-008] 👋 
- [![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
+ # Hi there, I'm mukul - aka [mb-008] , a  Student , learner and your friendly neighbourhood developer  :man_student: !!
 
- 
-## I'm a Student , learner and your friendly neighbourhood developer😁😁!!
-
-- 🌱 I’m currently trying to learn everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about opens source
-- ⚡ Fun fact: I love to dance 
+- 🌱 I’m currently experiencing existential crisis.
+- 👯 Looking to be more productive everyday.
+- 🥅 2023 Goals: Trust the Process.
+- ⚡ Fun fact: I am jack of all trades.
  
 
 ### Connect with me:
