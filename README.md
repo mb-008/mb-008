@@ -1,3 +1,12 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
  # Hi there, I'm mukul - aka [mb-008] 👋 
  [![An image of @mb008's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mb008)](https://holopin.io/@mb008)
 
