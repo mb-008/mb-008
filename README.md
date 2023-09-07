@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/mb-008/count.svg" />
 </p>
 
  # Hi there, I'm mukul - aka [mb-008] , a  Student , learner and your friendly neighbourhood developer  :man_student: !!
