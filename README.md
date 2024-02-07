@@ -1,17 +1,15 @@
-# Hey there :wave:
-
-<img src="https://github.com/mb-008/mb-008/blob/main/banner.png" alt="Hello world">
-
+# Hey there :wave: it's me <b> Mukul Bhardwaj </b>
 <p align="center"> 
+  <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130"> <br>
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/mb-008/count.svg" />
 </p>
 
- # Hi there, I'm mukul - aka [mb-008] , a  Student , learner and your friendly neighbourhood developer  :man_student: !!
+Pre-final year student pursuing CSE from DCRUST . FSD Intern at @skillrazr . Also, i am the management lead of @DCRUSTODC and member of Web. dev. team for IIC DCRUST . I am a Quick Learner with an interest in Full Stack Development and Blockchain :man_student: !!
 
-- 🌱 I’m currently experiencing existential crisis.
+- 🌱 I’m currently exploring different JS libraries.
 - 👯 Looking to be more productive everyday.
-- 🥅 2023 Goals: Trust the Process.
+- 🥅 2024 Goals: Trust the Process.
 - ⚡ Fun fact: I am jack of all trades.
  
 
@@ -26,8 +24,7 @@
 MY STATS :
 
 
-
-[![mb-008's GitHub | Stats](https://stats.quine.sh/mb-008/github?theme=dark)](https://quine.sh)
+![Mukul Bhardwaj's github stats](https://github-readme-stats.vercel.app/api?username=mb-008&show_icons=true,theme=chartreuse-dark)
 
  
  
