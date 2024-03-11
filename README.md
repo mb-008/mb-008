@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/mb-008/count.svg" />
 </p>
 
-Pre-final year student pursuing CSE from DCRUST . FSD Intern at @skillrazr . Also, i am the management lead of @DCRUSTODC and member of Web. dev. team for IIC DCRUST . I am a Quick Learner with an interest in Full Stack Development and Blockchain :man_student: !!
+Pre-final year student pursuing CSE from DCRUST . FSD Intern at @skillrazr . Also, i am the management lead of @DCRUSTODC and member of web-dev. team for IIC DCRUST . I am a Quick Learner with an interest in Full Stack Development and Blockchain :man_student: !!
 
 - 🌱 I’m currently exploring different JS libraries.
 - 👯 Looking to be more productive everyday.
