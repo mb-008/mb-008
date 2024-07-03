@@ -2,10 +2,10 @@
 <p align="center"> 
   <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130"> <br>
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mb-008/count.svg" />
+  
 </p>
 
-Pre-final year student pursuing CSE from DCRUST. I am the management lead of @DCRUSTODC and member of web-dev. team for IIC DCRUST . I am a Quick Learner with an interest in Full Stack Development and Blockchain :man_student: !!
+Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & average Linux user(i use Arch btw;) having interest in anime.:man_student: !!
 
 - 🌱 I’m currently exploring different JS libraries.
 - 👯 Looking to be more productive everyday.
