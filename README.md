@@ -6,7 +6,7 @@
 
 Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & average Linux user(i use Arch btw;) having interest in anime !!
 
-- 🌱 I’m currently exploring different JS libraries.
+- 🌱 I’m currently looking to explore .
 - 👯 Looking to be more productive everyday.
 - 🥅 2024 Goals: Trust the Process.
 - ⚡ Fun fact: I am jack of all trades.
