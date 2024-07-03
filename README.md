@@ -1,7 +1,6 @@
 # Hey there :wave: it's me <b> Mukul Bhardwaj </b>
 <p align="center"> 
   <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130"> <br>
-  Visitor count<br>
   
 </p>
 
