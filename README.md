@@ -4,7 +4,7 @@
   
 </p>
 
-Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & average Linux user(i use Arch btw;) having interest in anime !!
+Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & average Linux user(i use Arch btw;) !!
 
 - 🌱 I’m currently looking to explore .
 - 👯 Looking to be more productive everyday.
