@@ -4,17 +4,17 @@
   
 </p>
 
-Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & average Linux user(i use Arch btw;) !!
+Final year student pursuing CSE from DCRUST. I am a Full Stack Developer &  your average Linux user!!
 
 - 🌱 I’m currently looking to explore .
 - 👯 Looking to be more productive everyday.
-- 🥅 2024 Goals: Trust the Process.
+- 🥅 2025 Goals: Trust the Process.
 - ⚡ Fun fact: I am jack of all trades.
  
 
 ### Connect with me:
 
-[![website](./ldn.svg)](https://www.linkedin.com/in/mukul-bhardwaj-45473124a/)
+[![website](./ldn.svg)](https://www.linkedin.com/in/mukulbhardwaj123/)
 &nbsp;
 [![website](./ig.svg)](https://www.instagram.com/mukulsig)
 &nbsp;
