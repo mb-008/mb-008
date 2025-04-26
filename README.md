@@ -4,7 +4,7 @@
   
 </p>
 
-Final year student pursuing CSE from DCRUST. I am a Full Stack Developer &  your average Linux user !.
+Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & your average Linux user.
 
 - 🌱 I’m currently looking to explore .
 - 👯 Looking to be more productive everyday.
