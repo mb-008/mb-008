@@ -1,31 +1,40 @@
-# Hey there :wave: it's me <b> Mukul Bhardwaj </b>
-<p align="center"> 
-  <img align="center" src="https://media.giphy.com/media/1fhj2FW0661V3Nb2Me/giphy.gif" width="130"> <br>
-  
-</p>
+# Mukul Bhardwaj —  Chief Disruptor of Sanity in Codebases
 
-Final year student pursuing CSE from DCRUST. I am a Full Stack Developer & your average Linux user.
+> "Works on my machine" – Legacy quote, 2023
 
-- 🌱 I’m currently looking to explore .
-- 👯 Looking to be more productive everyday.
-- 🥅 2025 Goals: Trust the Process.
-- ⚡ Fun fact: I am jack of all trades.
- 
+## 🌀 Experience
 
-### Connect with me:
+- Director of Confusion at procastinator.org
+- Former Head of Overengineering at StackUnderflow
+- Lead Tab Opener at Productivity Solutions™
+
+## 🧪 Currently Learning
+
+- Git-based anxiety management
+- Force push therapy
+- Adjusting my existential bandwidth in standups
+
+## 📉 Notable Skills
+
+- Debugging by vibe
+- NPM installing my way through impostor syndrome
+- Avoiding Quick Calls
+
+## 🎯 2025 Goal
+
+Suggest me??
+
+---
+
+## 🕸️ Find Me in the Chaos
 
 [![website](./ldn.svg)](https://www.linkedin.com/in/mukulbhardwaj123/)
 &nbsp;
-[![website](./ig.svg)](https://www.instagram.com/mukulsig)
+[![website](./ig.svg)](https://www.instagram.com/mukuls_ig)
 &nbsp;
 [![website](./twt.svg)](https://twitter.com/mukuls_twt)
 
-MY STATS :
 
-
-![Mukul Bhardwaj's github stats](https://github-readme-stats.vercel.app/api?username=mb-008&show_icons=true,theme=chartreuse-dark)
-
- 
  
  
 
